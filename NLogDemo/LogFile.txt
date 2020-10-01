@@ -1,0 +1,2 @@
+2020-10-01 10:18:39.5228|DEBUG|NLogDemo.NLog|Debug successful: Add()
+2020-10-01 10:18:39.6988|INFO|NLogDemo.NLog|Add() passed: 99
